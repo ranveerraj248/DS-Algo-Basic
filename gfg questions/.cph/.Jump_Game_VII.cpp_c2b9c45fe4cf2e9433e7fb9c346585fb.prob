@@ -1,0 +1,1 @@
+{"name":"Local: Jump_Game_VII","url":"f:\\DS and Algo\\gfg questions\\Jump_Game_VII.cpp","tests":[{"id":1621741238662,"input":"3\n011010\n2\n3\n01101110\n2\n3\n01111111011110\n1\n9","output":"1\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\gfg questions\\Jump_Game_VII.cpp","group":"local","local":true}

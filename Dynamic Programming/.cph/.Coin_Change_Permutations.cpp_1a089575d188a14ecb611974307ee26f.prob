@@ -1,0 +1,1 @@
+{"name":"Local: Coin_Change_Permutations","url":"f:\\DS and Algo\\Dynamic Programming\\Coin_Change_Permutations.cpp","tests":[{"id":1620927244046,"input":"4\n2\n3\n5\n6\n7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Dynamic Programming\\Coin_Change_Permutations.cpp","group":"local","local":true}

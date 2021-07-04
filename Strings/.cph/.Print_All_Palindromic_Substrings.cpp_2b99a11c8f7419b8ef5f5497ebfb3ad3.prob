@@ -1,0 +1,1 @@
+{"name":"Local: Print_All_Palindromic_Substrings","url":"f:\\DS and Algo\\Strings\\Print_All_Palindromic_Substrings.cpp","tests":[{"id":1619637360272,"input":"abcc","output":"a\nb\nc\ncc\nc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Strings\\Print_All_Palindromic_Substrings.cpp","group":"local","local":true}

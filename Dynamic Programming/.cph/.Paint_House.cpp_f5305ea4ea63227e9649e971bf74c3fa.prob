@@ -1,0 +1,1 @@
+{"name":"Local: Paint_House","url":"f:\\DS and Algo\\Dynamic Programming\\Paint_House.cpp","tests":[{"id":1620990372498,"input":"4\n1 5 7\n5 8 4\n3 2 9\n1 2 4","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Dynamic Programming\\Paint_House.cpp","group":"local","local":true}

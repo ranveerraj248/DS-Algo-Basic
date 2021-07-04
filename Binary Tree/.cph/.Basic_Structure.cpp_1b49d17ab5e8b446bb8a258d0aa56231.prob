@@ -1,0 +1,1 @@
+{"name":"Local: Basic_Structure","url":"f:\\DS and Algo\\Binary Tree\\Basic_Structure.cpp","tests":[{"id":1621604475158,"input":"19\n50 25 12 n n 37 30 n n n 75 62 n 70 n n 87 n n","output":"9\n448\n87\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Binary Tree\\Basic_Structure.cpp","group":"local","local":true}

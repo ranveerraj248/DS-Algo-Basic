@@ -1,0 +1,1 @@
+{"name":"Local: Subarray Problem","url":"f:\\DS and Algo\\Function and Arrays\\Subarray Problem.cpp","tests":[{"id":1619540149821,"input":"3\n10\n20\n30","output":"10\t\n10\t20\t\n10\t20\t30\t\n20\t\n20\t30\t\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Subarray Problem.cpp","group":"local","local":true}

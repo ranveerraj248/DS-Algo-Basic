@@ -1,0 +1,1 @@
+{"name":"Local: Broken_Economy","url":"f:\\DS and Algo\\Function and Arrays\\Broken_Economy.cpp","tests":[{"id":1619605504807,"input":"10\n1\n5\n10\n15\n22\n33\n40\n42\n55\n66\n34","output":"40\n33"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Broken_Economy.cpp","group":"local","local":true}

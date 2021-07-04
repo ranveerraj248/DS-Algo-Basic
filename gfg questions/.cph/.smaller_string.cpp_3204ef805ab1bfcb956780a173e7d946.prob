@@ -1,0 +1,1 @@
+{"name":"Local: smaller_string","url":"f:\\DS and Algo\\gfg questions\\smaller_string.cpp","tests":[{"id":1621767991906,"input":"3\n2 3\nbc\n5 5\nabcdd\n1 5\nd","output":"2\n8\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\gfg questions\\smaller_string.cpp","group":"local","local":true}

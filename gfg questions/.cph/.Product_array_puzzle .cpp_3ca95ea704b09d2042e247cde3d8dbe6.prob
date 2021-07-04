@@ -1,0 +1,1 @@
+{"name":"Local: Product_array_puzzle ","url":"f:\\github\\DS and Algo\\gfg questions\\Product_array_puzzle .cpp","tests":[{"id":1623155017438,"input":"2\n5\n10 3 5 6 2\n2\n12 0","output":"180 600 360 300 900\n0 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\github\\DS and Algo\\gfg questions\\Product_array_puzzle .cpp","group":"local","local":true}

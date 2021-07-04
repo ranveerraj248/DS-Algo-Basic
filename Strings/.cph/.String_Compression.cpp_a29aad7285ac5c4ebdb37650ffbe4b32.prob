@@ -1,0 +1,1 @@
+{"name":"Local: String_Compression","url":"f:\\DS and Algo\\Strings\\String_Compression.cpp","tests":[{"id":1619639432583,"input":"wwwwaaadexxxxxx","output":"wadex\nw4a3dex6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Strings\\String_Compression.cpp","group":"local","local":true}

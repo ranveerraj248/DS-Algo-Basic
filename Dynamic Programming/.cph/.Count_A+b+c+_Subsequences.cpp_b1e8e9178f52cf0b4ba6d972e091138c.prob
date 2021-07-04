@@ -1,0 +1,1 @@
+{"name":"Local: Count_A+b+c+_Subsequences","url":"f:\\DS and Algo\\Dynamic Programming\\Count_A+b+c+_Subsequences.cpp","tests":[{"id":1620988644949,"input":"abcabc","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Dynamic Programming\\Count_A+b+c+_Subsequences.cpp","group":"local","local":true}

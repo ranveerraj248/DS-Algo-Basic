@@ -1,0 +1,1 @@
+{"name":"Local: Target_Sum_Subsets _Dp","url":"f:\\DS and Algo\\Dynamic Programming\\Target_Sum_Subsets _Dp.cpp","tests":[{"id":1620908610194,"input":"5\n4\n2\n7\n1\n3\n10","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Dynamic Programming\\Target_Sum_Subsets _Dp.cpp","group":"local","local":true}

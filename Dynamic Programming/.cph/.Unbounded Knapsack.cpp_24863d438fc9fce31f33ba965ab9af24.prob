@@ -1,0 +1,1 @@
+{"name":"Local: Unbounded Knapsack","url":"f:\\DS and Algo\\Dynamic Programming\\Unbounded Knapsack.cpp","tests":[{"id":1620937076984,"input":"5\n15 14 10 45 30\n2 5 1 3 4\n7","output":"100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Dynamic Programming\\Unbounded Knapsack.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Print_Stair_Paths","url":"f:\\DS and Algo\\Print_Stair_Paths.cpp","tests":[{"id":1619775023628,"input":"3","output":"111\n12\n21\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Print_Stair_Paths.cpp","group":"local","local":true}

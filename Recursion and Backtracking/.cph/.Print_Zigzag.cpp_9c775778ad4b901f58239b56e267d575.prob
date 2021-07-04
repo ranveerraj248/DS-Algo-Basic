@@ -1,0 +1,1 @@
+{"name":"Local: Print_Zigzag","url":"f:\\DS and Algo\\Recursion and Backtracking\\Print_Zigzag.cpp","tests":[{"id":1619690498542,"input":"3\n","output":"3 2 1 1 1 2 1 1 1 2 3 2 1 1 1 2 1 1 1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Recursion and Backtracking\\Print_Zigzag.cpp","group":"local","local":true}

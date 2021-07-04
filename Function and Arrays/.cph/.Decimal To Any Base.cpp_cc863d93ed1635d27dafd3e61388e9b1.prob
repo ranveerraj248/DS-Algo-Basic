@@ -1,0 +1,1 @@
+{"name":"Local: Decimal To Any Base","url":"f:\\DS and Algo\\Function and Arrays\\Decimal To Any Base.cpp","tests":[{"id":1619440518796,"input":"57\n2","output":"111001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Decimal To Any Base.cpp","group":"local","local":true}

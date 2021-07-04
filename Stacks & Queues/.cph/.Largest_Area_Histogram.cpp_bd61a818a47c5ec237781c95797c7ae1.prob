@@ -1,0 +1,1 @@
+{"name":"Local: Largest_Area_Histogram","url":"f:\\DS and Algo\\Stacks & Queues\\Largest_Area_Histogram.cpp","tests":[{"id":1620246696125,"input":"7\n6\n2\n5\n4\n5\n1\n6","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Stacks & Queues\\Largest_Area_Histogram.cpp","group":"local","local":true}

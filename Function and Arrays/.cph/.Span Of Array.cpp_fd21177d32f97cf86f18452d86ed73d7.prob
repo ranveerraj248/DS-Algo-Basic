@@ -1,0 +1,1 @@
+{"name":"Local: Span Of Array","url":"f:\\DS and Algo\\Function and Arrays\\Span Of Array.cpp","tests":[{"id":1619466428448,"input":"6\n15\n30\n40\n4\n11\n9","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Span Of Array.cpp","group":"local","local":true}

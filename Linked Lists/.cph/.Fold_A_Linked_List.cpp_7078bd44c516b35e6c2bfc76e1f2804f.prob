@@ -1,0 +1,1 @@
+{"name":"Local: Fold_A_Linked_List","url":"f:\\DS and Algo\\Linked Lists\\Fold_A_Linked_List.cpp","tests":[{"id":1620818430078,"input":"5\n1 2 3 4 5\n10\n20","output":"1 2 3 4 5 \n1 5 2 4 3 \n10 1 5 2 4 3 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Linked Lists\\Fold_A_Linked_List.cpp","group":"local","local":true}

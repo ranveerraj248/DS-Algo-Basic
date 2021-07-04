@@ -1,0 +1,1 @@
+{"name":"Local: All_Indices_Of_Array","url":"f:\\DS and Algo\\Recursion and Backtracking\\All_Indices_Of_Array.cpp","tests":[{"id":1619725634053,"input":"6\n15\n11\n40\n4\n4\n9\n4","output":"3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Recursion and Backtracking\\All_Indices_Of_Array.cpp","group":"local","local":true}

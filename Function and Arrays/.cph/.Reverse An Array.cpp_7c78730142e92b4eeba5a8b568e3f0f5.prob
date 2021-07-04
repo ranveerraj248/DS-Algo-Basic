@@ -1,0 +1,1 @@
+{"name":"Local: Reverse An Array","url":"f:\\DS and Algo\\Function and Arrays\\Reverse An Array.cpp","tests":[{"id":1619533799430,"input":"5\n1\n2\n3\n4\n5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Reverse An Array.cpp","group":"local","local":true}

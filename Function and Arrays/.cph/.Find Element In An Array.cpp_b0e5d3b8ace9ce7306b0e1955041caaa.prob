@@ -1,0 +1,1 @@
+{"name":"Local: Find Element In An Array","url":"f:\\DS and Algo\\Function and Arrays\\Find Element In An Array.cpp","tests":[{"id":1619466759590,"input":"6\n15\n30\n40\n4\n11\n9\n40","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Find Element In An Array.cpp","group":"local","local":true}

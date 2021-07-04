@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Prefix_Suffix ","url":"f:\\github\\DS and Algo\\gfg questions\\Longest_Prefix_Suffix .cpp","tests":[{"id":1623159163847,"input":"3\nabab\naaaa\ngigummcnu","output":"2\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\github\\DS and Algo\\gfg questions\\Longest_Prefix_Suffix .cpp","group":"local","local":true}

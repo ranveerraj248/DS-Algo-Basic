@@ -1,0 +1,1 @@
+{"name":"Local: Bitonic_Point ","url":"f:\\github\\DS and Algo\\gfg questions\\Bitonic_Point .cpp","tests":[{"id":1623156945761,"input":"2\n9\n1 15 25 45 42 21 17 12 11\n5\n1 45 47 50 5","output":"45\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\github\\DS and Algo\\gfg questions\\Bitonic_Point .cpp","group":"local","local":true}

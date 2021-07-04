@@ -1,0 +1,1 @@
+{"name":"Local: 725F","url":"f:\\github\\DS and Algo\\Code Forces\\725F.cpp","tests":[{"id":1623342692731,"input":"4\n1 9\n9 10\n10 20\n1 1000000000","output":"8\n2\n11\n1111111110"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\github\\DS and Algo\\Code Forces\\725F.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Rotate An Array","url":"f:\\DS and Algo\\Function and Arrays\\Rotate An Array.cpp","tests":[{"id":1619538916679,"input":"5\n1\n2\n3\n4\n5\n3","output":"3 4 5 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Function and Arrays\\Rotate An Array.cpp","group":"local","local":true}

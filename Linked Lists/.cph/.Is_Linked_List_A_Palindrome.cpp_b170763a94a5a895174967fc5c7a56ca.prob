@@ -1,0 +1,1 @@
+{"name":"Local: Is_Linked_List_A_Palindrome","url":"f:\\DS and Algo\\Linked Lists\\Is_Linked_List_A_Palindrome.cpp","tests":[{"id":1620817856022,"input":"5\n1 2 3 2 1","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DS and Algo\\Linked Lists\\Is_Linked_List_A_Palindrome.cpp","group":"local","local":true}
