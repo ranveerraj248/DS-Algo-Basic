@@ -8,6 +8,11 @@
         "random": "cpp",
         "chrono": "cpp",
         "cmath": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "queue": "cpp",
+        "utility": "cpp",
+        "numeric": "cpp",
+        "xstddef": "cpp",
+        "xiosbase": "cpp"
     }
 }
